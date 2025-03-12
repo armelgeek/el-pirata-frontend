@@ -1,0 +1,20 @@
+# type(scope): résumé concis (50 caractères max)
+# |<----  Utilisez un maximum de 50 caractères  ---->|
+
+# Corps du message: expliquez ce qui a changé et pourquoi (72 caractères par ligne)
+# |<----  Utilisez un maximum de 72 caractères par ligne  ---->|
+
+# Problèmes résolus, références, etc.
+# Closes #123, Refs #456
+# --- TYPES DE COMMIT ---
+# feat: nouvelle fonctionnalité
+# fix: correction de bug
+# docs: documentation uniquement
+# style: changements de formatage (espaces, indentation, etc.)
+# refactor: refactorisation du code sans changement de fonctionnalité
+# perf: amélioration des performances
+# test: ajout ou correction de tests
+# chore: modifications de la configuration de build, dépendances, etc.
+
+# Pour configurer ce modèle, exécutez:
+# git config --global commit.template ~/.gitmessage
